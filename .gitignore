@@ -2,3 +2,4 @@
 # Generated data files
 *.csv
 csv_mania/
+.DS_Store
